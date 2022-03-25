@@ -64,6 +64,41 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Grupo Innovati"
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2016-09-01",
+            "finishDate": "2017-05-01",
+            "challenges": [
+              {
+                "description": "- Java JEE Backend Development -- Spring Framework (Security, Rest), EJB, JPA2 with MySQL, SQL Server Database\n- Frontend Development with Angular JS, HTML"
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              },
+              {
+                "name": "MariaDB",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
