@@ -148,6 +148,10 @@
                 "type": "technology"
               },
               {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
                 "name": "GitLab",
                 "type": "technology"
               },
