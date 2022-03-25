@@ -37,36 +37,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "Entelgy Innotec Security"
-        },
-        "roles": [
-          {
-            "name": "Software Developer",
-            "startDate": "2018-01-01",
-            "challenges": [
-              {
-                "description": "Development of security applications\n\n*   Java JEE Backend Development -- Spring Boot, MyBatis, PostgreSQL\n*   Frontend Development with Angular JS, HTML5, CSS3"
-              }
-            ],
-            "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "Angular2+",
-                "type": "technology"
-              },
-              {
-                "name": "Spring Boot",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Grupo Innovati"
         },
         "roles": [
@@ -129,6 +99,40 @@
               },
               {
                 "name": "MariaDB",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Entelgy Innotec Security"
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2018-03-01",
+            "challenges": [
+              {
+                "description": "Development of security applications\n\n*   Java JEE Backend Development -- Spring Boot, MyBatis, PostgreSQL\n*   Frontend Development with Angular JS, HTML5, CSS3"
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
                 "type": "technology"
               }
             ]
