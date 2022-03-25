@@ -99,6 +99,41 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Experis IT"
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2017-05-01",
+            "finishDate": "2018-03-01",
+            "challenges": [
+              {
+                "description": "- Java JEE Backend Development -- Spring Framework (Security, Rest), EJB, JPA2 with MySQL, SQL Server Database.\n- Frontend Development with Angular JS, HTML5, CSS3\n- Continuous Integration Tools-- Jenkins, Mantis, SonarQube"
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              },
+              {
+                "name": "MariaDB",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
