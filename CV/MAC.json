@@ -243,27 +243,6 @@
         ]
       },
       {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Administración de Bases de Datos ORACLE",
-        "startDate": "2006-02-01",
-        "finishDate": "2006-03-01",
-        "institution": {
-          "name": "Universidad de Granada",
-          "description": "",
-          "image": {
-            "alt": "logo-UGR.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/9094a2f6-d646-43a5-9642-602876a3a7b2_logo-ugr.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Oracle",
-            "type": "technology"
-          }
-        ]
-      },
-      {
         "studyType": "selfTraining",
         "degreeAchieved": true,
         "name": "MongoDB for Java Developers",
@@ -281,6 +260,27 @@
           },
           {
             "name": "JAVA",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Administración de Bases de Datos ORACLE",
+        "startDate": "2006-10-01",
+        "finishDate": "2006-11-01",
+        "institution": {
+          "name": "Universidad de Granada",
+          "description": "",
+          "image": {
+            "alt": "logo-UGR.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/9094a2f6-d646-43a5-9642-602876a3a7b2_logo-ugr.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Oracle",
             "type": "technology"
           }
         ]
