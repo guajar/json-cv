@@ -341,6 +341,10 @@
         {
           "name": "Spring Boot",
           "type": "technology"
+        },
+        {
+          "name": "Git",
+          "type": "technology"
         }
       ]
     }
