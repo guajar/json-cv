@@ -128,11 +128,35 @@
                 "type": "technology"
               },
               {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
                 "name": "PostgreSQL",
                 "type": "technology"
               },
               {
                 "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "GitLab",
+                "type": "technology"
+              },
+              {
+                "name": "Yarn",
+                "type": "technology"
+              },
+              {
+                "name": "Gitflow",
                 "type": "technology"
               }
             ]
