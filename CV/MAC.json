@@ -345,6 +345,10 @@
         {
           "name": "Git",
           "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
         }
       ]
     }
