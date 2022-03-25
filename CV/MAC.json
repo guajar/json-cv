@@ -72,17 +72,6 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Licenciatura Documentación",
-        "startDate": "2000-09-01",
-        "finishDate": "2006-09-01",
-        "institution": {
-          "name": "Universidad de Granada",
-          "description": ""
-        }
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
         "name": "Máster Sistemas Información Digital",
         "startDate": "2010-09-01",
         "finishDate": "2012-07-01",
@@ -100,6 +89,21 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Licenciatura Documentación",
+        "startDate": "2000-09-01",
+        "finishDate": "2006-09-01",
+        "institution": {
+          "name": "Universidad de Granada",
+          "description": "",
+          "image": {
+            "alt": "logo-UGR.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/b96dfaf5-2480-40e4-b4df-58776159fadd_logo-ugr.jpg"
+          }
+        }
       }
     ]
   },
