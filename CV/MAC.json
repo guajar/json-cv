@@ -79,6 +79,23 @@
           "name": "Universidad de Granada",
           "description": ""
         }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Máster Sistemas Información Digital",
+        "startDate": "2010-09-01",
+        "finishDate": "2012-07-01",
+        "institution": {
+          "name": "Universidad de Salamanca",
+          "description": ""
+        },
+        "linkedCompetences": [
+          {
+            "name": "Joomla",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
