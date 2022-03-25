@@ -104,6 +104,39 @@
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/b96dfaf5-2480-40e4-b4df-58776159fadd_logo-ugr.jpg"
           }
         }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "CFGS Desarrollo de Aplicaciones Multiplataforma",
+        "startDate": "2014-09-01",
+        "finishDate": "2016-06-01",
+        "institution": {
+          "name": "IES RIbera de Castilla (Valladolid)",
+          "description": ""
+        },
+        "linkedCompetences": [
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "Android",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
