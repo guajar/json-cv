@@ -266,11 +266,11 @@
       {
         "studyType": "selfTraining",
         "degreeAchieved": true,
-        "name": "MongoDB for Java Deveñpers",
+        "name": "MongoDB for Java Developers",
         "startDate": "2017-09-01",
         "finishDate": "2017-10-01",
         "institution": {
-          "name": "MongDBo University",
+          "name": "MongoDB University",
           "description": "",
           "URL": "https://university.mongodb.com/"
         },
