@@ -1,0 +1,100 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Jose Antonio",
+      "surnames": "Maldonado Jimenez",
+      "title": "Software Developer at Entelgy Innotec Security",
+      "description": "Hello, first at all I would like to say that I want to continue to learn and be a part of a international team. I become a developer after a personal transformation (before I was a librarian, but I discovered coding on time!!). I like share knowledge with others and obviously I would like to discover others points of view in the world.",
+      "avatar": {
+        "alt": "profile-image",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/b9bdedce-1581-4067-b308-75cf8ee9f366_t119o.png"
+      },
+      "location": {
+        "notes": "Madrid, Community of Madrid, ES"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/j-antonio-maldonado"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/guajar"
+      },
+      {
+        "type": "other",
+        "URL": "https://stackoverflow.com/users/6170896/jose-antonio-maldonado"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Entelgy Innotec Security"
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2018-01-01",
+            "challenges": [
+              {
+                "description": "Development of security applications\n\n*   Java JEE Backend Development -- Spring Boot, MyBatis, PostgreSQL\n*   Frontend Development with Angular JS, HTML5, CSS3"
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/j-antonio-maldonado"
+        },
+        {
+          "type": "other",
+          "URL": "https://stackoverflow.com/users/6170896/jose-antonio-maldonado"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Angular2+",
+          "type": "technology"
+        },
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
