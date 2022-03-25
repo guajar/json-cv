@@ -88,7 +88,11 @@
         "finishDate": "2012-07-01",
         "institution": {
           "name": "Universidad de Salamanca",
-          "description": ""
+          "description": "",
+          "image": {
+            "alt": "logo-usal.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/e94f3886-86f2-4fac-8d35-e7e860a844e4_logo-usal.png"
+          }
         },
         "linkedCompetences": [
           {
