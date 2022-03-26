@@ -107,7 +107,11 @@
       },
       {
         "organization": {
-          "name": "Entelgy Innotec Security"
+          "name": "Entelgy Innotec Security",
+          "image": {
+            "alt": "innotec.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/0a3ebcf4-a69e-41a6-a753-09de38698210_innotec.jpeg"
+          }
         },
         "roles": [
           {
