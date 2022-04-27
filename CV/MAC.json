@@ -20,16 +20,16 @@
     },
     "relevantLinks": [
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/j-antonio-maldonado"
-      },
-      {
         "type": "github",
         "URL": "https://github.com/guajar"
       },
       {
         "type": "other",
         "URL": "https://stackoverflow.com/users/6170896/jose-antonio-maldonado"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/j-antonio-maldonado"
       }
     ]
   },
@@ -37,33 +37,64 @@
     "jobs": [
       {
         "organization": {
-          "name": "Grupo Innovati"
+          "name": "Entelgy Innotec Security",
+          "image": {
+            "alt": "innotec.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/0a3ebcf4-a69e-41a6-a753-09de38698210_innotec.jpeg"
+          }
         },
         "roles": [
           {
             "name": "Software Developer",
-            "startDate": "2016-09-01",
-            "finishDate": "2017-05-01",
+            "startDate": "2018-03-01",
             "challenges": [
               {
-                "description": "- Java JEE Backend Development -- Spring Framework (Security, Rest), EJB, JPA2 with MySQL, SQL Server Database\n- Frontend Development with Angular JS, HTML"
+                "description": "Development of security applications\n\n*   Java JEE Backend Development -- Spring Boot, MyBatis, PostgreSQL\n*   Frontend Development with Angular JS & Angular2+, HTML5, CSS3"
               }
             ],
             "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "GitLab",
+                "type": "technology"
+              },
+              {
+                "name": "Gitflow",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
               {
                 "name": "JAVA",
                 "type": "technology"
               },
               {
-                "name": "Spring",
+                "name": "PostgreSQL",
                 "type": "technology"
               },
               {
-                "name": "AngularJS",
+                "name": "REST",
                 "type": "technology"
               },
               {
-                "name": "MariaDB",
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "Yarn",
                 "type": "technology"
               }
             ]
@@ -86,19 +117,19 @@
             ],
             "competences": [
               {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "Spring",
-                "type": "technology"
-              },
-              {
                 "name": "AngularJS",
                 "type": "technology"
               },
               {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
                 "name": "MariaDB",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
                 "type": "technology"
               }
             ]
@@ -107,64 +138,33 @@
       },
       {
         "organization": {
-          "name": "Entelgy Innotec Security",
-          "image": {
-            "alt": "innotec.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/0a3ebcf4-a69e-41a6-a753-09de38698210_innotec.jpeg"
-          }
+          "name": "Grupo Innovati"
         },
         "roles": [
           {
             "name": "Software Developer",
-            "startDate": "2018-03-01",
+            "startDate": "2016-09-01",
+            "finishDate": "2017-05-01",
             "challenges": [
               {
-                "description": "Development of security applications\n\n*   Java JEE Backend Development -- Spring Boot, MyBatis, PostgreSQL\n*   Frontend Development with Angular JS & Angular2+, HTML5, CSS3"
+                "description": "- Java JEE Backend Development -- Spring Framework (Security, Rest), EJB, JPA2 with MySQL, SQL Server Database\n- Frontend Development with Angular JS, HTML"
               }
             ],
             "competences": [
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              },
               {
                 "name": "JAVA",
                 "type": "technology"
               },
               {
-                "name": "Angular2+",
+                "name": "MariaDB",
                 "type": "technology"
               },
               {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "PostgreSQL",
-                "type": "technology"
-              },
-              {
-                "name": "Spring Boot",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "REST",
-                "type": "technology"
-              },
-              {
-                "name": "GitLab",
-                "type": "technology"
-              },
-              {
-                "name": "Yarn",
-                "type": "technology"
-              },
-              {
-                "name": "Gitflow",
+                "name": "Spring",
                 "type": "technology"
               }
             ]
@@ -174,52 +174,104 @@
     ]
   },
   "knowledge": {
-    "studies": [
+    "languages": [
       {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Máster Sistemas Información Digital",
-        "startDate": "2010-09-01",
-        "finishDate": "2012-07-01",
-        "institution": {
-          "name": "Universidad de Salamanca",
-          "description": "",
-          "image": {
-            "alt": "logo-usal.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/e94f3886-86f2-4fac-8d35-e7e860a844e4_logo-usal.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Joomla",
-            "type": "technology"
-          }
-        ]
+        "name": "English"
       },
       {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Licenciatura Documentación",
-        "startDate": "2000-09-01",
-        "finishDate": "2006-09-01",
-        "institution": {
-          "name": "Universidad de Granada",
-          "description": "",
-          "image": {
-            "alt": "logo-UGR.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/b96dfaf5-2480-40e4-b4df-58776159fadd_logo-ugr.jpg"
-          }
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
         }
       },
       {
-        "studyType": "officialDegree",
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AngularJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NPM",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "API",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "selfTraining",
         "degreeAchieved": true,
-        "name": "CFGS Desarrollo de Aplicaciones Multiplataforma",
-        "startDate": "2014-09-01",
-        "finishDate": "2016-06-01",
+        "name": "MongoDB for Java Developers",
+        "startDate": "2017-09-01",
+        "finishDate": "2017-10-01",
         "institution": {
-          "name": "IES RIbera de Castilla (Valladolid)",
-          "description": ""
+          "name": "MongoDB University",
+          "URL": "https://university.mongodb.com/"
         },
         "linkedCompetences": [
           {
@@ -227,19 +279,7 @@
             "type": "technology"
           },
           {
-            "name": "HTML",
-            "type": "technology"
-          },
-          {
-            "name": "CSS",
-            "type": "technology"
-          },
-          {
-            "name": "MySQL",
-            "type": "technology"
-          },
-          {
-            "name": "Android",
+            "name": "MongoDB",
             "type": "technology"
           }
         ]
@@ -257,41 +297,71 @@
         },
         "linkedCompetences": [
           {
-            "name": "Python",
+            "name": "Django",
             "type": "technology"
           },
           {
             "name": "MongoDB",
-            "type": "technology"
-          },
-          {
-            "name": "Django",
             "type": "technology"
           },
           {
             "name": "NodeJS",
             "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
           }
         ]
       },
       {
-        "studyType": "selfTraining",
+        "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "MongoDB for Java Developers",
-        "startDate": "2017-09-01",
-        "finishDate": "2017-10-01",
+        "name": "CFGS Desarrollo de Aplicaciones Multiplataforma",
+        "startDate": "2014-09-01",
+        "finishDate": "2016-06-01",
         "institution": {
-          "name": "MongoDB University",
-          "description": "",
-          "URL": "https://university.mongodb.com/"
+          "name": "IES RIbera de Castilla (Valladolid)"
         },
         "linkedCompetences": [
           {
-            "name": "MongoDB",
+            "name": "Android",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
             "type": "technology"
           },
           {
             "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Máster Sistemas Información Digital",
+        "startDate": "2010-09-01",
+        "finishDate": "2012-07-01",
+        "institution": {
+          "name": "Universidad de Salamanca",
+          "image": {
+            "alt": "logo-usal.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/e94f3886-86f2-4fac-8d35-e7e860a844e4_logo-usal.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Joomla",
             "type": "technology"
           }
         ]
@@ -304,7 +374,6 @@
         "finishDate": "2006-11-01",
         "institution": {
           "name": "Universidad de Granada",
-          "description": "",
           "image": {
             "alt": "logo-UGR.jpg",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/9094a2f6-d646-43a5-9642-602876a3a7b2_logo-ugr.jpg"
@@ -316,6 +385,20 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Licenciatura Documentación",
+        "startDate": "2000-09-01",
+        "finishDate": "2006-09-01",
+        "institution": {
+          "name": "Universidad de Granada",
+          "image": {
+            "alt": "logo-UGR.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/b96dfaf5-2480-40e4-b4df-58776159fadd_logo-ugr.jpg"
+          }
+        }
       }
     ]
   },
@@ -339,19 +422,19 @@
           "type": "technology"
         },
         {
-          "name": "JAVA",
-          "type": "technology"
-        },
-        {
-          "name": "Spring Boot",
-          "type": "technology"
-        },
-        {
           "name": "Git",
           "type": "technology"
         },
         {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
           "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "Spring Boot",
           "type": "technology"
         }
       ]
