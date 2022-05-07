@@ -24,10 +24,6 @@
         "URL": "https://github.com/guajar"
       },
       {
-        "type": "other",
-        "URL": "https://stackoverflow.com/users/6170896/jose-antonio-maldonado"
-      },
-      {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/j-antonio-maldonado"
       }
@@ -258,6 +254,14 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
     "hardSkills": [
       {
         "skill": {
@@ -316,24 +320,6 @@
       {
         "skill": {
           "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NPM",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "API",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Git",
           "type": "technology"
         }
       }
@@ -528,10 +514,6 @@
         {
           "type": "linkedin",
           "URL": "https://www.linkedin.com/in/j-antonio-maldonado"
-        },
-        {
-          "type": "other",
-          "URL": "https://stackoverflow.com/users/6170896/jose-antonio-maldonado"
         }
       ]
     },
@@ -539,10 +521,6 @@
       "preferredCompetences": [
         {
           "name": "Angular2+",
-          "type": "technology"
-        },
-        {
-          "name": "Git",
           "type": "technology"
         },
         {
