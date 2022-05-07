@@ -103,6 +103,17 @@
       },
       {
         "organization": {
+          "name": "Asociación Vecinal Rondilla"
+        },
+        "roles": [
+          {
+            "name": "IT Trainer",
+            "startDate": "2015-11-01"
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Experis IT"
         },
         "roles": [
@@ -131,6 +142,24 @@
               {
                 "name": "Spring",
                 "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Experis Global Content Solutions",
+          "URL": "https://www.linkedin.com/company/experis-solutions?trk=public_profile_experience-item_result-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Junior Software Developer",
+            "startDate": "2017-05-01",
+            "finishDate": "2018-03-31",
+            "challenges": [
+              {
+                "description": "- Java JEE Backend Development -- Spring Framework (Security, Rest), EJB, JPA2 with MySQL, SQL Server Database - Frontend Development with Angular JS, HTML5, CSS3 - Continuous Integration Tools-- Jenkins, Mantis, SonarQube - Java JEE Backend Development -- Spring Framework (Security, Rest), EJB, JPA2 with MySQL, SQL Server Database - Frontend Development with Angular JS, HTML5, CSS3 - Continuous Integration Tools-- Jenkins, Mantis, SonarQube"
               }
             ]
           }
@@ -170,18 +199,76 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Connectis ICT Services S.A.",
+          "URL": "https://www.linkedin.com/company/connectis-latam?trk=public_profile_experience-item_result-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Intern Developer",
+            "startDate": "2016-03-01",
+            "finishDate": "2016-06-30",
+            "challenges": [
+              {
+                "description": "· Web & Mobile Development using AngularJS, HTML5, CSS3, NodeJS, Maven, Cordova (PhoneGap) that allows use technologies web standard for Cross-Platform Development - Development Java JEE for services Back-end with Spring Framework and Hibernate. · Working with Java unit tests using Eclipse and TestNG. · Execute automated tests in test environments as Appium. · IBM Mobile Platform First analysis and Use cases deployment in IBM Bluemix. · Web & Mobile Development using AngularJS, HTML5, CSS3, NodeJS, Maven, Cordova (PhoneGap) that allows use technologies web standard for Cross-Platform Development - Development Java JEE for services Back-end with Spring Framework and Hibernate. · Working with Java unit tests using Eclipse and TestNG. · Execute automated tests in test environments as Appium. · IBM Mobile Platform First analysis and Use cases deployment in IBM Bluemix."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "DIGIBIS",
+          "URL": "https://www.linkedin.com/company/digibis?trk=public_profile_experience-item_result-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Document Control Assistant",
+            "startDate": "2012-03-01",
+            "finishDate": "2012-09-30",
+            "challenges": [
+              {
+                "description": "· Digitization of library materials · Validation and quality control of digital copies · Description of digital copies · Association of descriptive metadata · Treatment of digital copies · Import and export of metadata · Digitization of library materials · Validation and quality control of digital copies · Description of digital copies · Association of descriptive metadata · Treatment of digital copies · Import and export of metadata"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Farmaeuropa S.A."
+        },
+        "roles": [
+          {
+            "name": "Administrative Assistant",
+            "startDate": "2007-03-01",
+            "finishDate": "2008-03-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "University of Granada",
+          "URL": "https://www.linkedin.com/company/university-of-granada?trk=public_profile_experience-item_result-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Web Administrator",
+            "startDate": "2004-11-01",
+            "finishDate": "2005-06-30",
+            "challenges": [
+              {
+                "description": "Administration and content management of the website. Administration and content management of the website."
+              }
+            ]
+          }
+        ]
       }
     ]
   },
   "knowledge": {
-    "languages": [
-      {
-        "name": "English"
-      },
-      {
-        "name": "Spanish"
-      }
-    ],
     "hardSkills": [
       {
         "skill": {
@@ -317,6 +404,17 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
+        "name": "Web Development Master Bootcamp Computer and Information Sciences and Support Services",
+        "startDate": "2016-01-01",
+        "finishDate": "2017-12-31",
+        "institution": {
+          "name": "KeepCoding",
+          "URL": "https://www.linkedin.com/school/keepcoding/?trk=public_profile_school_result-card_full-click"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
         "name": "CFGS Desarrollo de Aplicaciones Multiplataforma",
         "startDate": "2014-09-01",
         "finishDate": "2016-06-01",
@@ -349,6 +447,17 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
+        "name": "CFGS Desarrollo de Aplicaciones Multiplataforma Computer/Information Technology",
+        "startDate": "2014-01-01",
+        "finishDate": "2016-12-31",
+        "institution": {
+          "name": "IES Ribera de Castilla",
+          "URL": "https://www.linkedin.com/school/iesriberadecastilla/?trk=public_profile_school_result-card_full-click"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
         "name": "Máster Sistemas Información Digital",
         "startDate": "2010-09-01",
         "finishDate": "2012-07-01",
@@ -365,6 +474,17 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master en Sistemas de Información Digital Information Technology",
+        "startDate": "2010-01-01",
+        "finishDate": "2012-12-31",
+        "institution": {
+          "name": "Universidad de Salamanca",
+          "URL": "https://www.linkedin.com/school/universidad-de-salamanca/?trk=public_profile_school_result-card_full-click"
+        }
       },
       {
         "studyType": "unaccredited",
@@ -398,6 +518,17 @@
             "alt": "logo-UGR.jpg",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/b96dfaf5-2480-40e4-b4df-58776159fadd_logo-ugr.jpg"
           }
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Diplomatura Biblioteconomía y Documentación",
+        "startDate": "2000-01-01",
+        "finishDate": "2003-12-31",
+        "institution": {
+          "name": "Universidad de Granada",
+          "URL": "https://www.linkedin.com/school/university-of-granada/?trk=public_profile_school_result-card_full-click"
         }
       }
     ]
