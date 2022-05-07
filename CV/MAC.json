@@ -134,24 +134,6 @@
       },
       {
         "organization": {
-          "name": "Experis Global Content Solutions",
-          "URL": "https://www.linkedin.com/company/experis-solutions?trk=public_profile_experience-item_result-card_subtitle-click"
-        },
-        "roles": [
-          {
-            "name": "Junior Software Developer",
-            "startDate": "2017-05-01",
-            "finishDate": "2018-03-31",
-            "challenges": [
-              {
-                "description": "- Java JEE Backend Development -- Spring Framework (Security, Rest), EJB, JPA2 with MySQL, SQL Server Database - Frontend Development with Angular JS, HTML5, CSS3 - Continuous Integration Tools-- Jenkins, Mantis, SonarQube - Java JEE Backend Development -- Spring Framework (Security, Rest), EJB, JPA2 with MySQL, SQL Server Database - Frontend Development with Angular JS, HTML5, CSS3 - Continuous Integration Tools-- Jenkins, Mantis, SonarQube"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Grupo Innovati"
         },
         "roles": [
