@@ -218,6 +218,10 @@
       {
         "organization": {
           "name": "University of Granada",
+          "image": {
+            "alt": "logo-UGR.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/07/dbd6c402-297e-49d0-8660-22b34c5af0af_logo-ugr.jpg"
+          },
           "URL": "https://www.linkedin.com/company/university-of-granada?trk=public_profile_experience-item_result-card_subtitle-click"
         },
         "roles": [
