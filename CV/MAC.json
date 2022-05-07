@@ -437,7 +437,11 @@
         "finishDate": "2003-12-31",
         "institution": {
           "name": "Universidad de Granada",
-          "URL": "https://www.linkedin.com/school/university-of-granada/?trk=public_profile_school_result-card_full-click"
+          "URL": "https://www.linkedin.com/school/university-of-granada/?trk=public_profile_school_result-card_full-click",
+          "image": {
+            "alt": "logo-UGR.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/07/a9ec8a38-11b9-422f-8c12-6a51db82e634_logo-ugr.jpg"
+          }
         }
       }
     ]
