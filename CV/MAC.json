@@ -347,36 +347,6 @@
         ]
       },
       {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Web Development Master Bootcamp",
-        "startDate": "2016-10-01",
-        "finishDate": "2017-06-01",
-        "institution": {
-          "name": "KeepCoding",
-          "description": "*MEAN & Django*: JavaScript, Python, Express, Angular, MongoDB, Django\n*Database*: PostgreSQL, MongoDB, Redis, ElasticSearch\n*Microservices & REST*: Celery, RabbitMQ, APIs REST, Real-time web with Node.js\n*SCRUM & Agile*: SCRUM, Agile, TDD\n*Interface design*: Responsive Design, SASS, HTML5, CSS3, Task Automation with Gulp\n*Findability*: SEO, Information architecture, UX, Analytics, Tests A/B",
-          "URL": "https://keepcoding.io/nuestros-bootcamps/full-stack-web-bootcamp/"
-        },
-        "linkedCompetences": [
-          {
-            "name": "Django",
-            "type": "technology"
-          },
-          {
-            "name": "MongoDB",
-            "type": "technology"
-          },
-          {
-            "name": "NodeJS",
-            "type": "technology"
-          },
-          {
-            "name": "Python",
-            "type": "technology"
-          }
-        ]
-      },
-      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Web Development Master Bootcamp Computer and Information Sciences and Support Services",
