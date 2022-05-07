@@ -410,17 +410,6 @@
         ]
       },
       {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Master en Sistemas de Información Digital Information Technology",
-        "startDate": "2010-01-01",
-        "finishDate": "2012-12-31",
-        "institution": {
-          "name": "Universidad de Salamanca",
-          "URL": "https://www.linkedin.com/school/universidad-de-salamanca/?trk=public_profile_school_result-card_full-click"
-        }
-      },
-      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Administración de Bases de Datos ORACLE",
