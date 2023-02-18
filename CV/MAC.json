@@ -34,6 +34,12 @@
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/j-antonio-maldonado"
       }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "IT & Sport Lover",
+        "fact": "My favourite sport are:\n- Futsal\n- Basket\n- MontainBike"
+      }
     ]
   },
   "experience": {
