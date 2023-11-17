@@ -1,44 +1,44 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
-    "language": "ES",
-    "MACVersion": "0.3"
+    "language": "EN",
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
       "name": "Jose Antonio",
       "surnames": "Maldonado",
       "title": "Enthusiastic Software Developer",
-      "description": "",
+      "description": "I started late in this world, but always I wished work with technology. Finally, I decided study a IT degree and it is the best act that I could be done. I am happy working as developer every day.",
       "avatar": {
-        "alt": "pink_jam.png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/aab30897-a865-40f9-bbff-cc670756f2f0_pink_jam.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/aab30897-a865-40f9-bbff-cc670756f2f0_pink_jam.png",
+        "alt": "pink_jam.png"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
     },
+    "interestingFacts": [
+      {
+        "topic": "IT & Sport Lover",
+        "fact": "My favourite sport are:\n- Futsal\n- Basket\n- MontainBike"
+      }
+    ],
     "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/j-antonio-maldonado"
+      },
       {
         "type": "github",
         "URL": "https://github.com/guajar"
       },
       {
-        "type": "other",
+        "type": "stackoverflow",
         "URL": "https://stackoverflow.com/users/6170896/jose-antonio-maldonado"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/j-antonio-maldonado"
-      }
-    ],
-    "interestingFacts": [
-      {
-        "topic": "IT & Sport Lover",
-        "fact": "My favourite sport are:\n- Futsal\n- Basket\n- MontainBike"
       }
     ]
   },
@@ -48,8 +48,8 @@
         "organization": {
           "name": "Entelgy Innotec Security",
           "image": {
-            "alt": "innotec.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/0a3ebcf4-a69e-41a6-a753-09de38698210_innotec.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/0a3ebcf4-a69e-41a6-a753-09de38698210_innotec.jpeg",
+            "alt": "innotec.jpeg"
           }
         },
         "roles": [
@@ -224,12 +224,7 @@
           {
             "name": "Administrative Assistant",
             "startDate": "2007-03-01",
-            "finishDate": "2008-03-31",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ]
+            "finishDate": "2008-03-31"
           }
         ]
       },
@@ -237,8 +232,8 @@
         "organization": {
           "name": "University of Granada",
           "image": {
-            "alt": "logo-UGR.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/07/dbd6c402-297e-49d0-8660-22b34c5af0af_logo-ugr.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/07/dbd6c402-297e-49d0-8660-22b34c5af0af_logo-ugr.jpg",
+            "alt": "logo-UGR.jpg"
           },
           "URL": "https://www.linkedin.com/company/university-of-granada?trk=public_profile_experience-item_result-card_subtitle-click"
         },
@@ -260,21 +255,17 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
+        "fullName": "Inglés",
         "level": "Professional working proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
-      {
-        "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
       {
         "skill": {
           "name": "Angular2+",
@@ -283,37 +274,7 @@
       },
       {
         "skill": {
-          "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PostgreSQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Spring Boot",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
+          "name": "AngularJS",
           "type": "technology"
         }
       },
@@ -325,30 +286,64 @@
       },
       {
         "skill": {
-          "name": "AngularJS",
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
           "type": "technology"
         }
       }
     ],
     "studies": [
       {
-        "studyType": "selfTraining",
+        "studyType": "unaccredited",
         "degreeAchieved": true,
-        "name": "MongoDB for Java Developers",
-        "startDate": "2017-09-01",
-        "finishDate": "2017-10-01",
+        "name": "Administración de Bases de Datos ORACLE",
+        "startDate": "2006-10-01",
         "institution": {
-          "name": "MongoDB University",
-          "description": "",
-          "URL": "https://university.mongodb.com/"
+          "name": "Universidad de Granada",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/9094a2f6-d646-43a5-9642-602876a3a7b2_logo-ugr.jpg",
+            "alt": "logo-UGR.jpg"
+          }
         },
+        "finishDate": "2006-11-01",
         "linkedCompetences": [
           {
-            "name": "JAVA",
-            "type": "technology"
-          },
-          {
-            "name": "MongoDB",
+            "name": "Oracle",
             "type": "technology"
           }
         ]
@@ -356,25 +351,12 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Web Development Master Bootcamp Computer and Information Sciences and Support Services",
-        "startDate": "2016-10-01",
-        "finishDate": "2017-06-01",
-        "institution": {
-          "name": "KeepCoding",
-          "description": "",
-          "URL": "https://www.linkedin.com/school/keepcoding/?trk=public_profile_school_result-card_full-click"
-        }
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
         "name": "CFGS Desarrollo de Aplicaciones Multiplataforma",
         "startDate": "2014-09-01",
-        "finishDate": "2016-06-01",
         "institution": {
-          "name": "IES RIbera de Castilla (Valladolid)",
-          "description": ""
+          "name": "IES RIbera de Castilla (Valladolid)"
         },
+        "finishDate": "2016-06-01",
         "linkedCompetences": [
           {
             "name": "Android",
@@ -401,17 +383,67 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Máster Sistemas Información Digital",
-        "startDate": "2010-09-01",
-        "finishDate": "2012-07-01",
+        "name": "Diplomatura Biblioteconomía y Documentación",
+        "startDate": "2000-01-01",
         "institution": {
-          "name": "Universidad de Salamanca",
-          "description": "",
+          "name": "Universidad de Granada",
+          "URL": "https://www.linkedin.com/school/university-of-granada/?trk=public_profile_school_result-card_full-click",
           "image": {
-            "alt": "logo-usal.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/e94f3886-86f2-4fac-8d35-e7e860a844e4_logo-usal.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/07/a9ec8a38-11b9-422f-8c12-6a51db82e634_logo-ugr.jpg",
+            "alt": "logo-UGR.jpg"
           }
         },
+        "finishDate": "2003-09-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Licenciatura Documentación",
+        "startDate": "2003-09-01",
+        "institution": {
+          "name": "Universidad de Granada",
+          "URL": "https://www.linkedin.com/school/university-of-granada/?trk=public_profile_school_result-card_full-click",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/b96dfaf5-2480-40e4-b4df-58776159fadd_logo-ugr.jpg",
+            "alt": "logo-UGR.jpg"
+          }
+        },
+        "finishDate": "2006-09-01"
+      },
+      {
+        "studyType": "selfTraining",
+        "degreeAchieved": true,
+        "name": "MongoDB for Java Developers",
+        "startDate": "2017-09-01",
+        "institution": {
+          "name": "MongoDB University",
+          "URL": "https://university.mongodb.com/"
+        },
+        "finishDate": "2017-10-01",
+        "linkedCompetences": [
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Máster Sistemas Información Digital",
+        "startDate": "2010-09-01",
+        "institution": {
+          "name": "Universidad de Salamanca",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/e94f3886-86f2-4fac-8d35-e7e860a844e4_logo-usal.png",
+            "alt": "logo-usal.png"
+          }
+        },
+        "finishDate": "2012-07-01",
         "linkedCompetences": [
           {
             "name": "Joomla",
@@ -420,56 +452,34 @@
         ]
       },
       {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Administración de Bases de Datos ORACLE",
-        "startDate": "2006-10-01",
-        "finishDate": "2006-11-01",
-        "institution": {
-          "name": "Universidad de Granada",
-          "description": "",
-          "image": {
-            "alt": "logo-UGR.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/9094a2f6-d646-43a5-9642-602876a3a7b2_logo-ugr.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Oracle",
-            "type": "technology"
-          }
-        ]
-      },
-      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Licenciatura Documentación",
-        "startDate": "2003-09-01",
-        "finishDate": "2006-09-01",
+        "name": "Web Development Master Bootcamp Computer and Information Sciences and Support Services",
+        "startDate": "2016-10-01",
         "institution": {
-          "name": "Universidad de Granada",
-          "description": "",
-          "URL": "https://www.linkedin.com/school/university-of-granada/?trk=public_profile_school_result-card_full-click",
-          "image": {
-            "alt": "logo-UGR.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/b96dfaf5-2480-40e4-b4df-58776159fadd_logo-ugr.jpg"
-          }
+          "name": "KeepCoding",
+          "URL": "https://www.linkedin.com/school/keepcoding/?trk=public_profile_school_result-card_full-click"
+        },
+        "finishDate": "2017-06-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptability to change",
+          "type": "practice"
         }
       },
       {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Diplomatura Biblioteconomía y Documentación",
-        "startDate": "2000-01-01",
-        "finishDate": "2003-09-01",
-        "institution": {
-          "name": "Universidad de Granada",
-          "description": "",
-          "URL": "https://www.linkedin.com/school/university-of-granada/?trk=public_profile_school_result-card_full-click",
-          "image": {
-            "alt": "logo-UGR.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/07/a9ec8a38-11b9-422f-8c12-6a51db82e634_logo-ugr.jpg"
-          }
+        "skill": {
+          "name": "Continuous learning",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Team player",
+          "type": "practice"
         }
       }
     ]
@@ -478,12 +488,25 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/j-antonio-maldonado"
+          "URL": "https://www.linkedin.com/in/j-antonio-maldonado",
+          "type": "linkedin"
         },
         {
-          "type": "other",
-          "URL": "https://stackoverflow.com/users/6170896/jose-antonio-maldonado"
+          "URL": "https://stackoverflow.com/users/6170896/jose-antonio-maldonado",
+          "type": "stackoverflow"
+        },
+        {
+          "URL": "https://github.com/guajar",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "jamaldonadojimenez@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "636410499",
+          "countryCode": "+34"
         }
       ]
     },
@@ -512,5 +535,9 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "API Developer, \nSenior Backend Developer",
+    "goodPractices": "Design Patterns, Solid, Clean Code"
   }
 }
