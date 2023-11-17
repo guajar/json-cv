@@ -310,6 +310,12 @@
       },
       {
         "skill": {
+          "name": "NoSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "PostgreSQL",
           "type": "technology"
         }
@@ -537,6 +543,28 @@
     "status": "openToOffers"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Angular2+",
+        "type": "technology"
+      },
+      {
+        "name": "JAVA",
+        "type": "technology"
+      },
+      {
+        "name": "NoSQL",
+        "type": "technology"
+      },
+      {
+        "name": "PostgreSQL",
+        "type": "technology"
+      },
+      {
+        "name": "Spring Boot",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "API Developer, \nSenior Backend Developer",
     "goodPractices": "Design Patterns, Solid, Clean Code"
   }
