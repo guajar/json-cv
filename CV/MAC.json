@@ -513,6 +513,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
           "name": "Angular2+",
           "type": "technology"
         },
