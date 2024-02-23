@@ -529,6 +529,10 @@
           "type": "technology"
         },
         {
+          "name": "PostgreSQL",
+          "type": "technology"
+        },
+        {
           "name": "Spring Boot",
           "type": "technology"
         }
