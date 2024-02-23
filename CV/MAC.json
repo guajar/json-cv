@@ -517,6 +517,10 @@
           "type": "technology"
         },
         {
+          "name": "Gradle",
+          "type": "technology"
+        },
+        {
           "name": "JAVA",
           "type": "technology"
         },
