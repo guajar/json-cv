@@ -508,12 +508,6 @@
       ],
       "contactMails": [
         "jamaldonadojimenez@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "636410499",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
@@ -524,10 +518,6 @@
         },
         {
           "name": "JAVA",
-          "type": "technology"
-        },
-        {
-          "name": "JavaScript",
           "type": "technology"
         },
         {
