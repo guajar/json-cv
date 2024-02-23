@@ -521,6 +521,10 @@
           "type": "technology"
         },
         {
+          "name": "Maven",
+          "type": "technology"
+        },
+        {
           "name": "Spring Boot",
           "type": "technology"
         }
