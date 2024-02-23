@@ -525,6 +525,10 @@
           "type": "technology"
         },
         {
+          "name": "NoSQL",
+          "type": "technology"
+        },
+        {
           "name": "Spring Boot",
           "type": "technology"
         }
