@@ -537,10 +537,6 @@
           "type": "technology"
         },
         {
-          "name": "Maven",
-          "type": "technology"
-        },
-        {
           "name": "NoSQL",
           "type": "technology"
         },
