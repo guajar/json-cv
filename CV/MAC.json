@@ -521,11 +521,11 @@
           "type": "technology"
         },
         {
-          "name": "GraalVM",
+          "name": "Docker",
           "type": "technology"
         },
         {
-          "name": "Gradle",
+          "name": "GraalVM",
           "type": "technology"
         },
         {
