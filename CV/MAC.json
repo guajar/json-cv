@@ -525,6 +525,10 @@
           "type": "technology"
         },
         {
+          "name": "Grafana",
+          "type": "technology"
+        },
+        {
           "name": "JAVA",
           "type": "technology"
         },
