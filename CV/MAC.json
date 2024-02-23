@@ -537,6 +537,10 @@
           "type": "technology"
         },
         {
+          "name": "Kubernetes",
+          "type": "technology"
+        },
+        {
           "name": "NoSQL",
           "type": "technology"
         },
