@@ -93,6 +93,7 @@
           {
             "name": "Software Developer",
             "startDate": "2018-03-01",
+            "finishDate": "2024-05-01",
             "challenges": [
               {
                 "description": "Development of security applications\n\n*   Java JEE Backend Development -- Spring Boot, MyBatis, PostgreSQL\n*   Frontend Development with Angular JS & Angular2+, HTML5, CSS3"
