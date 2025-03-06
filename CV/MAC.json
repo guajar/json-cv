@@ -46,7 +46,11 @@
     "jobs": [
       {
         "organization": {
-          "name": "Accenture Iberia"
+          "name": "Accenture España",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/03/06/096cf49f-b58e-4abd-9e2c-6d914cc206d0_accenture_logo.jpg",
+            "alt": "accenture_logo.jpg"
+          }
         },
         "roles": [
           {
