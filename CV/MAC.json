@@ -46,6 +46,39 @@
     "jobs": [
       {
         "organization": {
+          "name": "Accenture Iberia"
+        },
+        "roles": [
+          {
+            "name": "Senior Software Developer",
+            "startDate": "2024-06-01",
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "NoSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Cloud",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Entelgy Innotec Security",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/0a3ebcf4-a69e-41a6-a753-09de38698210_innotec.jpeg",
