@@ -579,10 +579,6 @@
           "type": "technology"
         },
         {
-          "name": "Postman",
-          "type": "technology"
-        },
-        {
           "name": "Spring Boot",
           "type": "technology"
         }
